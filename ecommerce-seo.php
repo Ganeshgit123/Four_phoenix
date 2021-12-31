@@ -100,7 +100,7 @@ executives to learn more about how we may help you.</p>
 </div>
 <div class="space30 d-none d-md-block d-lg-none"></div>
 <div class="col-lg-6 play-wrapper light-gallery-wrapper text-center">
-<img src="style/images/digital_marketing/e_commerce_seo_strategy.png" style="width: 30rem" alt="" />
+<img src="style/images/digital_marketing/e_commerce_seo_strategy.png" class="img-fluid" alt="" />
 </div>
 <!--/column -->          
 </div>
@@ -114,7 +114,7 @@ executives to learn more about how we may help you.</p>
         <div class="row align-items-center">
           <!--/column -->
            <div class="col-lg-6 play-wrapper light-gallery-wrapper text-center">
-            <img src="style/images/digital_marketing/e_commerce_seo_cost.jpg" style="width: 30rem" alt="" />
+            <img src="style/images/digital_marketing/e_commerce_seo_cost.jpg" class="img-fluid" alt="" />
                       </div>
 
                    <div class="space30 d-none d-md-block d-lg-none"></div>
@@ -281,7 +281,7 @@ SEO strategy may assist businesses in identifying promising leads, which can res
 increased sales and revenue.</p>
           </div>
            <div class="col-lg-6 play-wrapper light-gallery-wrapper text-center">
-            <img src="style/images/digital_marketing/advantages.png" style="width: 30rem" alt="" />
+            <img src="style/images/digital_marketing/advantages.png" class="img-fluid" alt="" />
             </div>
 
                    <div class="space30 d-none d-md-block d-lg-none"></div>

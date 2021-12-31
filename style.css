@@ -6435,12 +6435,12 @@ footer.inverse-text address {
         border-top-right-radius: 0 !important;
     }
     .navbar .navbar-brand {
-        padding-top: 1.25rem;
-        padding-bottom: 1.25rem;
+        padding-top: 0rem;
+        padding-bottom: 0rem;
     }
     .navbar.fixed .navbar-brand {
-        padding-top: 0.9rem;
-        padding-bottom: 0.9rem;
+        padding-top: 0rem;
+        padding-bottom: 0rem;
     }
     .navbar.extended .logo-dark {
         display: inline-block;

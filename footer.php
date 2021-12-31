@@ -14,9 +14,9 @@
             <div class="widget">
               <h5 class="widget-title">Quick Links</h5>
               <ul class="list-unstyled mb-0">
-                <li><a href="https://fourphoenix.com/">Home</a></li>
+                <li><a href="https://www.fourphoenix.com/">Home</a></li>
                 <li><a href="about">About Us</a></li>
-                <li><a href="https://fourphoenix.com/blog/" target="_blank">Blog</a></li>
+                <li><a href="https://www.fourphoenix.com/blog/" target="_blank">Blog</a></li>
                 <li><a href="pricing">Pricing</a></li>
                 <li><a href="contact-us">Contact Us</a></li>
               </ul>
@@ -59,6 +59,8 @@
           <li><a href="https://www.facebook.com/Four-Phoenix-105545431934486" target="_blank"><i class="jam jam-facebook"></i></a></li>
           <li><a href="https://www.instagram.com/fourphoenix360/" target="_blank"><i class="jam jam-instagram"></i></a></li>
           <li><a href="https://www.linkedin.com/company/80649149/admin/" target="_blank"><i class="jam jam-linkedin"></i></a></li>
+          <li><a href="https://in.pinterest.com/fourphoenix360/" target="_blank"><i class="jam jam-pinterest"></i></a></li>
+          <li><a href="https://www.youtube.com/channel/UCMa-ssarD1ZmPsb-v9MBtUw" target="_blank"><i class="jam jam-youtube"></i></a></li>
         </ul>
       </div>
     </footer>

@@ -7,6 +7,18 @@
   <title>About us Four Phoneix - Digital marketing company</title>
   <link rel="canonical" href="https://www.fourphoenix.com/about" />
   <meta name="description" content='Four Phoneix is the passionate digital marketing Company which helps you to improve sales and brand establishment with better strategy. We guides you every aspects of your business to attain your goal on your business. " You talk to us, We work for you. Let us ready to achieve the Success". Through this about us page you may be able to know about ourselves and our company.' />
+
+  <meta property="og:title" content="About us Four Phoneix - Digital marketing company">
+<meta property="og:url" content="https://www.fourphoenix.com/">
+<meta property="og:image" content="https://www.fourphoenix.com/style/images/logo.png">
+<meta property="og:description" content='Four Phoneix is the passionate digital marketing Company which helps you to improve sales and brand establishment with better strategy. We guides you every aspects of your business to attain your goal on your business. " You talk to us, We work for you. Let us ready to achieve the Success". Through this about us page you may be able to know about ourselves and our company.'>
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="About us Four Phoneix - Digital marketing company">
+<meta name="twitter:image" content="https://www.fourphoenix.com/style/images/logo.png">
+<meta property="twitter:description" content='Four Phoneix is the passionate digital marketing Company which helps you to improve sales and brand establishment with better strategy. We guides you every aspects of your business to attain your goal on your business. " You talk to us, We work for you. Let us ready to achieve the Success". Through this about us page you may be able to know about ourselves and our company.'>
+
   <link rel="stylesheet" type="text/css" href="style/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="style/css/plugins.css">
   <link rel="stylesheet" type="text/css" href="style/revolution/css/settings.css">
@@ -86,7 +98,7 @@
           <!--/column -->
                <div class="space30 d-none d-md-block d-lg-none"></div>
               <div class="col-lg-6 text-center">
-            <img src="style/images/about8.png" style="width: 30rem" alt="" />
+            <img src="style/images/about8.png" class="img-fluid" alt="" />
           </div>
           <!--/column -->
           <div class="space20"></div>
@@ -204,21 +216,7 @@ As a result, they lost not only their profit but also their courage at that time
     <?php include 'footer.php';?>
 </div>
   <!-- /.content-wrapper -->
-  <script src="style/js/jquery.min.js"></script>
-  <script src="style/js/popper.min.js"></script>
-  <script src="style/js/bootstrap.min.js"></script>
-  <script src="style/revolution/js/jquery.themepunch.tools.min.js"></script>
-  <script src="style/revolution/js/jquery.themepunch.revolution.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.actions.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.migration.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.video.min.js"></script>
-  <script src="style/js/plugins.js"></script>
-  <script src="style/js/scripts.js"></script>
+     <?php include 'common_script.php';?>
+
 </body>
 </html>

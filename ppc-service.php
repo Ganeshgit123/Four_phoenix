@@ -72,7 +72,7 @@ services at a low cost.</p>
 <div class="space30 d-none d-md-block d-lg-none"></div>
 
 <div class="col-lg-6 play-wrapper light-gallery-wrapper text-center">
-<img src="style/images/digital_marketing/ppc_services.png" style="width: 30rem" alt="" />
+<img src="style/images/digital_marketing/ppc_services.png" class="img-fluid" alt="" />
 </div>
 </div>
 <!--/.row -->
@@ -101,7 +101,7 @@ pay for the space, but you can't measure the outcome or track the impact of the 
 because you have to pay for it.</p>
 </div>
 <div class="col-lg-6 play-wrapper light-gallery-wrapper text-center">
-<img src="style/images/digital_marketing/pp_click.jpg" style="width: 30rem" alt="" />
+<img src="style/images/digital_marketing/pp_click.jpg" class="img-fluid" alt="" />
 </div>
 <div class="space30 d-none d-md-block d-lg-none"></div>
 <div class="col-lg-6 pl-60 pl-md-15">
@@ -280,7 +280,7 @@ services agency. You may achieve the best results with the correct PPC marketing
 </div>
 <div class="space30 d-none d-md-block d-lg-none"></div>
 <div class="col-lg-6 play-wrapper light-gallery-wrapper text-center">
-<img src="style/images/digital_marketing/ppc_agency.png" style="width: 30rem" alt="" />
+<img src="style/images/digital_marketing/ppc_agency.png" class="img-fluid" alt="" />
 </div>
 <!--/column -->          
 </div>
@@ -294,7 +294,7 @@ services agency. You may achieve the best results with the correct PPC marketing
 <div class="row">
 <!--/column -->
 <div class="col-lg-12">
-<h3 class="display-3">Why should you hire RankON Technologies for PPC advertising in India?</h3>
+<h3 class="display-3">Why should you hire Fourphonenix for PPC advertising in India?</h3>
 <p>With its PPC advertising services in India, Four Phoenix is the best PPC management
 firm in India, aiming to boost your website traffic as well as help your website rank well
 in SERP. Our PPC marketing professionals thoroughly examine your website and
@@ -386,8 +386,8 @@ put their talents and experience to work to improve PPC management.</p>
 <div class="col-lg-6 pr-60 pr-md-15">
 	<h3 class="display-3">Why should you hire Four Phoenix for PPC management?</h3>
 <p>With a track record of providing superior PPC marketing services in India to a large
-number of consumers over the years, 'RankON Technologies' guarantees to provide the
-best support possible. RankON Technologies is one of India's leading PPC advertising
+number of consumers over the years, 'Fourphonenix' guarantees to provide the
+best support possible. Fourphonenix is one of India's leading PPC advertising
 firms.</p>
 <div class="space20"></div>
 <h2 class="title-color color-gray">PPC Management Services provided by us</h2>
@@ -576,7 +576,7 @@ management solution. Furthermore, you will be working with a PPC Advertising
 business with over 3 years of expertise managing pay-per-click campaigns.</p>
           </div>
            <div class="col-lg-6 play-wrapper light-gallery-wrapper text-center">
-            <img src="style/images/digital_marketing/ppc_advantages.jpg" style="width: 30rem" alt="" />
+            <img src="style/images/digital_marketing/ppc_advantages.jpg" class="img-fluid" alt="" />
          </div>
 
                    <div class="space30 d-none d-md-block d-lg-none"></div>

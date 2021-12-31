@@ -7,6 +7,18 @@
   <title>Four Phoneix - Digital art and illustration company</title>
   <link rel="canonical" href="https://www.fourphoenix.com/digital-art" />
   <meta name="description" content="Digital art is the best way to create a unique graphic design services. Our digital artists provides hand made unique sketch based upon our clients requirements. So the dream image can be created and it will enhance the business growth." />
+
+   <meta property="og:title" content="Four Phoneix - Digital art and illustration company">
+<meta property="og:url" content="https://www.fourphoenix.com/">
+<meta property="og:image" content="https://www.fourphoenix.com/style/images/logo.png">
+<meta property="og:description" content="Digital art is the best way to create a unique graphic design services. Our digital artists provides hand made unique sketch based upon our clients requirements. So the dream image can be created and it will enhance the business growth.">
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Four Phoneix - Digital art and illustration company">
+<meta name="twitter:image" content="https://www.fourphoenix.com/style/images/logo.png">
+<meta property="twitter:description" content="Digital art is the best way to create a unique graphic design services. Our digital artists provides hand made unique sketch based upon our clients requirements. So the dream image can be created and it will enhance the business growth.">
+
   <link rel="stylesheet" type="text/css" href="style/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="style/css/plugins.css">
   <link rel="stylesheet" type="text/css" href="style/revolution/css/settings.css">
@@ -36,6 +48,7 @@
             <p>Four Phoneix was founded to set a new benchmark for digital portrait painting, pencil sketch, charcoal sketch, and digital oil painting quality and services. We've built our business from the ground up to be able to provide the greatest cost, integrated dealing, higher quality, and service. We are a fast-growing, well-versed, and skilled in sketching company with clients all over the world. We offer hand-drawn sketches, and our pencil sketch artist is the best in the business.</p>
 
             <p>Digital portrait paintings are created with a hand on a digital pad and are authentically hand painted. We are experts in digital painting, and we use this approach to bring personality to personal photographs. While there are numerous options for converting a photograph into a sketch or painting, we prefer to produce a handmade digital painting that adds a personal touch to your favourite memories.</p> 
+            <p><a href="https://www.instagram.com/art_b_official/" target="_blank" style="font-size: 20px;">Follow us on instagram </a></p>
           </div>
           <!--/column -->
                     <div class="space30 d-none d-md-block d-lg-none"></div>
@@ -83,21 +96,7 @@
 
   </div>
   <!-- /.content-wrapper -->
-  <script src="style/js/jquery.min.js"></script>
-  <script src="style/js/popper.min.js"></script>
-  <script src="style/js/bootstrap.min.js"></script>
-  <script src="style/revolution/js/jquery.themepunch.tools.min.js"></script>
-  <script src="style/revolution/js/jquery.themepunch.revolution.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.actions.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.migration.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.video.min.js"></script>
-  <script src="style/js/plugins.js"></script>
-  <script src="style/js/scripts.js"></script>
+      <?php include 'common_script.php';?>
+
 </body>
 </html>

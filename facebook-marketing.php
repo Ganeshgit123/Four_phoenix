@@ -86,7 +86,7 @@ website but have not yet placed an order.</p>
       <div class="container inner">
         <div class="row align-items-center">
           <div class="col-lg-6 play-wrapper light-gallery-wrapper text-center">
-           <img src="style/images/digital_marketing/emerging_facebook.png" style="width: 30rem" alt="" />
+           <img src="style/images/digital_marketing/emerging_facebook.png" class="img-fluid" alt="" />
           </div>
           <!--/column -->
           <div class="space30 d-none d-md-block d-lg-none"></div>
@@ -207,7 +207,7 @@ on this.</p>
                 <!-- /.card-header -->
                 <div id="accordion-collapse-2-1" class="collapse" aria-labelledby="accordion-heading-2-1" data-target="#accordion-2">
                   <div class="card-body">
-                    <p>We produce eye-catching Facebook ad graphics that entice and motivate potential customers right away. You can utilise a variety of Facebook ad styles, such as photo or image advertisements, video ads, slideshows, carousels, and a collection of photos, to successfully communicate your brand message to your target audience. When you employ RankON Technologies, our team will determine which Facebook ad style will provide you with the most return on investment. We have professional graphic designers and video experts who can help you generate better content for Facebook advertisements so that you can reach your target audience quicker.</p>
+                    <p>We produce eye-catching Facebook ad graphics that entice and motivate potential customers right away. You can utilise a variety of Facebook ad styles, such as photo or image advertisements, video ads, slideshows, carousels, and a collection of photos, to successfully communicate your brand message to your target audience. When you employ Fourphonenix, our team will determine which Facebook ad style will provide you with the most return on investment. We have professional graphic designers and video experts who can help you generate better content for Facebook advertisements so that you can reach your target audience quicker.</p>
                   </div>
                   <!-- /.card-body -->
                 </div>

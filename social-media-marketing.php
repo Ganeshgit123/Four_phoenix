@@ -127,7 +127,7 @@ consider the following advantages of doing so:</p>
       <div class="container inner">
         <div class="row align-items-center">
           <div class="col-lg-6 play-wrapper light-gallery-wrapper text-center">
-           <img src="style/images/digital_marketing/online_presence.png" style="width: 30rem" alt="" />
+           <img src="style/images/digital_marketing/online_presence.png" class="img-fluid" alt="" />
           </div>
           <!--/column -->
           <div class="space30 d-none d-md-block d-lg-none"></div>
@@ -244,7 +244,7 @@ assist you in identifying the most relevant audience for your company on Faceboo
                            <div class="space20"></div>
 <h3 class="display-3">Performance that can be measured</h3>
             <p>You can quickly track the success of your Facebook advertising initiatives. You can define your goal during the construction of your Facebook advertisements and install Facebook Pixel, which will display your data such as how much money you spent on Facebook ads and also be able to know how many impressions and leads that you received.</p>
-                <p class="text-center"><a href="facebook-marketing" class="btn">Click Here to Know About Facebook Marketing</a></p>
+            <p class="text-center"><a href="facebook-marketing" class="btn">Click Here to Know Facebook Marketing</a></p>
           </div>
       </div>
     </div>

@@ -1,6 +1,6 @@
     <nav class="navbar absolute transparent inverse-text navbar-hover-opacity nav-uppercase navbar-expand-lg">
       <div class="container flex-row justify-content-center">
-         <div class="navbar-brand"><a href="https://fourphoenix.com/"><img src="#" srcset="style/images/logo.png" class="logo-dark" alt="" /><img src="#" srcset="style/images/logo_white.png" class="logo-light" alt="" /></a></div>
+         <div class="navbar-brand"><a href="https://www.fourphoenix.com/"><img src="#" srcset="style/images/logo.png" class="logo-dark" alt="" /><img src="#" srcset="style/images/logo_white.png" class="logo-light" alt="" /></a></div>
         <div class="navbar-other ml-auto order-lg-3">
           <ul class="navbar-nav flex-row align-items-center" data-sm-skip="true">
             <li class="nav-item">
@@ -12,11 +12,11 @@
         <!-- /.navbar-other -->
         <div class="navbar-collapse offcanvas-nav">
           <div class="offcanvas-header d-lg-none d-xl-none">
-            <a href="https://fourphoenix.com/"><img src="#" srcset="style/images/logo_white.png" alt="" /></a>
+            <a href="https://www.fourphoenix.com/"><img src="#" srcset="style/images/logo_white.png" alt="" /></a>
             <button class="plain offcanvas-navnvas-close offcanvas-nav-close"><i class="jam jam-close"></i></button>
           </div>
           <ul class="navbar-nav mx-auto">
-            <li class="nav-item"><a class="nav-link" href="https://fourphoenix.com/">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://www.fourphoenix.com/">Home</a></li>
             <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#!">Services</a>
             <ul class="dropdown-menu">
                  <li class="dropdown"><a class="dropdown-item dropdown-toggle" href="#!">Search Engine Optimization and Marketing</a>
@@ -53,7 +53,7 @@
                 <li class="nav-item"><a class="dropdown-item" href="digital-art">Digital Art & Illustrations</a></li>
             </ul>
             </li> 
-            <li class="nav-item"><a class="nav-link" href="https://fourphoenix.com/blog/" target="_blank">Blog</a></li> 
+            <li class="nav-item"><a class="nav-link" href="https://www.fourphoenix.com/blog/" target="_blank">Blog</a></li> 
             <li class="nav-item"><a class="nav-link" href="about">About Us</a></li> 
             <li class="nav-item"><a class="nav-link" href="pricing">Pricing</a></li> 
             <li class="nav-item"><a class="nav-link" href="contact-us">Contact Us</a></li> 
