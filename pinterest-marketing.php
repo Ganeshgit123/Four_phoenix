@@ -7,6 +7,18 @@
   <title>Four Phoneix - Pinterest marketing company | Pinterest Management Services</title>
   <link rel="canonical" href="https://www.fourphoenix.com/pinterest-marketing" />
   <meta name="description" content="Grow your business with best platform which guide audience to make decision. Four Phoneix will ramp your audience engagement, drive more sales, and enhance growth to establish brand awareness to the market" />
+
+   <meta property="og:title" content="Four Phoneix - Pinterest marketing company | Pinterest Management Services">
+<meta property="og:url" content="https://www.fourphoenix.com/">
+<meta property="og:image" content="https://www.fourphoenix.com/style/images/logo.png">
+<meta property="og:description" content='Grow your business with best platform which guide audience to make decision. Four Phoneix will ramp your audience engagement, drive more sales, and enhance growth to establish brand awareness to the market'>
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Four Phoneix - Pinterest marketing company | Pinterest Management Services">
+<meta name="twitter:image" content="https://www.fourphoenix.com/style/images/logo.png">
+<meta property="twitter:description" content='Grow your business with best platform which guide audience to make decision. Four Phoneix will ramp your audience engagement, drive more sales, and enhance growth to establish brand awareness to the market'>
+
   <link rel="stylesheet" type="text/css" href="style/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="style/css/plugins.css">
   <link rel="stylesheet" type="text/css" href="style/revolution/css/settings.css">
@@ -206,21 +218,7 @@
 
   </div>
   <!-- /.content-wrapper -->
-  <script src="style/js/jquery.min.js"></script>
-  <script src="style/js/popper.min.js"></script>
-  <script src="style/js/bootstrap.min.js"></script>
-  <script src="style/revolution/js/jquery.themepunch.tools.min.js"></script>
-  <script src="style/revolution/js/jquery.themepunch.revolution.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.actions.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.migration.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.video.min.js"></script>
-  <script src="style/js/plugins.js"></script>
-  <script src="style/js/scripts.js"></script>
+      <?php include 'common_script.php';?>
+
 </body>
 </html>

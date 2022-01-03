@@ -7,6 +7,18 @@
    <title>Facebook marketing Services company | Facebook Advertising Company in Chennai, India</title>
   <link rel="canonical" href="https://www.fourphoenix.com/facebook-marketing" />
   <meta name="description" content="Four Phoneix is one of the best Facebook Marketing services company that knows the budget value of advertising on Facebook. Promote any kind of business through Facebook ads. Plan Starts from minimum Rs. 20. Get afree consultation from our Facebook marketing Service provider experts." />
+
+   <meta property="og:title" content="Facebook marketing Services company | Facebook Advertising Company in Chennai, India">
+<meta property="og:url" content="https://www.fourphoenix.com/">
+<meta property="og:image" content="https://www.fourphoenix.com/style/images/logo.png">
+<meta property="og:description" content='Four Phoneix is one of the best Facebook Marketing services company that knows the budget value of advertising on Facebook. Promote any kind of business through Facebook ads. Plan Starts from minimum Rs. 20. Get afree consultation from our Facebook marketing Service provider experts.'>
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Facebook marketing Services company | Facebook Advertising Company in Chennai, India">
+<meta name="twitter:image" content="https://www.fourphoenix.com/style/images/logo.png">
+<meta property="twitter:description" content='Four Phoneix is one of the best Facebook Marketing services company that knows the budget value of advertising on Facebook. Promote any kind of business through Facebook ads. Plan Starts from minimum Rs. 20. Get afree consultation from our Facebook marketing Service provider experts.'>
+
   <link rel="stylesheet" type="text/css" href="style/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="style/css/plugins.css">
   <link rel="stylesheet" type="text/css" href="style/revolution/css/settings.css">
@@ -276,21 +288,6 @@ on this.</p>
 
   </div>
   <!-- /.content-wrapper -->
-  <script src="style/js/jquery.min.js"></script>
-  <script src="style/js/popper.min.js"></script>
-  <script src="style/js/bootstrap.min.js"></script>
-  <script src="style/revolution/js/jquery.themepunch.tools.min.js"></script>
-  <script src="style/revolution/js/jquery.themepunch.revolution.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.actions.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.migration.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-  <script src="style/revolution/js/extensions/revolution.extension.video.min.js"></script>
-  <script src="style/js/plugins.js"></script>
-  <script src="style/js/scripts.js"></script>
+ <?php include 'common_script.php';?>
 </body>
 </html>
