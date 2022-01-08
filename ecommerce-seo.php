@@ -4,20 +4,20 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="shortcut icon" href="style/images/favicon.png">
-<title>Four Phoneix</title>
+<title>Best E-commerce SEO Services company - Four Phoneix</title>
   <link rel="canonical" href="https://www.fourphoenix.com/ecommerce-seo" />
-  <meta name="description" content="Ecommerce SEO" />
+  <meta name="description" content="Our E-commerce Seo services is used to provide more sales on your business. For e-commerce website Seo services is must. It will help you to get more traffic." />
 
-  <meta property="og:title" content="Four Phoneix">
+  <meta property="og:title" content="Best E-commerce SEO Services company - Four Phoneix">
 <meta property="og:url" content="https://www.fourphoenix.com/">
 <meta property="og:image" content="https://www.fourphoenix.com/style/images/logo.png">
-<meta property="og:description" content='Ecommerce SEO'>
+<meta property="og:description" content='Our E-commerce Seo services is used to provide more sales on your business. For e-commerce website Seo services is must. It will help you to get more traffic.'>
 <meta property="og:type" content="website">
 
 <meta name="twitter:card" content="summary">
-<meta property="twitter:title" content="Four Phoneix">
+<meta property="twitter:title" content="Best E-commerce SEO Services company - Four Phoneix">
 <meta name="twitter:image" content="https://www.fourphoenix.com/style/images/logo.png">
-<meta property="twitter:description" content='Ecommerce SEO'>
+<meta property="twitter:description" content='Our E-commerce Seo services is used to provide more sales on your business. For e-commerce website Seo services is must. It will help you to get more traffic.'>
 
 <link rel="stylesheet" type="text/css" href="style/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="style/css/plugins.css">

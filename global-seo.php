@@ -4,20 +4,20 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="style/images/favicon.png">
-  <title>Four Phoneix</title>
+  <title>Best Global SEO Services | World Wide expansion of business - Four Phoneix</title>
   <link rel="canonical" href="https://www.fourphoenix.com/global-seo" />
-  <meta name="description" content="Global SEO" />
+  <meta name="description" content="Global SEO Services or International SEO Services are used to enhance the website through world wide. This service helps you to reach the right people widely." />
 
-   <meta property="og:title" content="Four Phoneix">
+   <meta property="og:title" content="Best Global SEO Services | World Wide expansion of business - Four Phoneix">
 <meta property="og:url" content="https://www.fourphoenix.com/">
 <meta property="og:image" content="https://www.fourphoenix.com/style/images/logo.png">
-<meta property="og:description" content='Global SEO'>
+<meta property="og:description" content='Global SEO Services or International SEO Services are used to enhance the website through world wide. This service helps you to reach the right people widely.'>
 <meta property="og:type" content="website">
 
 <meta name="twitter:card" content="summary">
-<meta property="twitter:title" content="Four Phoneix">
+<meta property="twitter:title" content="Best Global SEO Services | World Wide expansion of business - Four Phoneix">
 <meta name="twitter:image" content="https://www.fourphoenix.com/style/images/logo.png">
-<meta property="twitter:description" content='Global SEO'>
+<meta property="twitter:description" content='Global SEO Services or International SEO Services are used to enhance the website through world wide. This service helps you to reach the right people widely.'>
 
   <link rel="stylesheet" type="text/css" href="style/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="style/css/plugins.css">

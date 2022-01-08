@@ -4,20 +4,20 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="shortcut icon" href="style/images/favicon.png">
-<title>Four Phoneix</title>
+<title>Best Local SEO Services Company - Four Phoneix</title>
   <link rel="canonical" href="https://www.fourphoenix.com/local-seo" />
-  <meta name="description" content="Local SEO" />
+  <meta name="description" content="Local Search engine optimization is used to provide growth for business especially small and medium type business. Because Local SEO Services will help you to rank the company on location basis." />
 
-   <meta property="og:title" content="Four Phoneix">
+   <meta property="og:title" content="Best Local SEO Services Company - Four Phoneix">
 <meta property="og:url" content="https://www.fourphoenix.com/">
 <meta property="og:image" content="https://www.fourphoenix.com/style/images/logo.png">
-<meta property="og:description" content='Local SEO'>
+<meta property="og:description" content='Local Search engine optimization is used to provide growth for business especially small and medium type business. Because Local SEO Services will help you to rank the company on location basis.'>
 <meta property="og:type" content="website">
 
 <meta name="twitter:card" content="summary">
-<meta property="twitter:title" content="Four Phoneix">
+<meta property="twitter:title" content="Best Local SEO Services Company - Four Phoneix">
 <meta name="twitter:image" content="https://www.fourphoenix.com/style/images/logo.png">
-<meta property="twitter:description" content='Local SEO'>
+<meta property="twitter:description" content='Local Search engine optimization is used to provide growth for business especially small and medium type business. Because Local SEO Services will help you to rank the company on location basis.'>
 
 <link rel="stylesheet" type="text/css" href="style/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="style/css/plugins.css">
