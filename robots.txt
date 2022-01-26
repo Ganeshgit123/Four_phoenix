@@ -1,0 +1,5 @@
+Sitemap: https://www.fourphoenix.com/sitemap.xml
+
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/

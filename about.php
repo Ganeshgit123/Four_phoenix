@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,15 +9,15 @@
   <meta name="description" content='Four Phoneix is the passionate digital marketing Company which helps you to improve sales and brand establishment with better strategy. We guides you every aspects of your business to attain your goal on your business. " You talk to us, We work for you. Let us ready to achieve the Success". Through this about us page you may be able to know about ourselves and our company.' />
 
   <meta property="og:title" content="About us Four Phoneix - Digital marketing company">
-  <meta property="og:url" content="https://www.fourphoenix.com/">
-  <meta property="og:image" content="https://www.fourphoenix.com/style/images/logo.png">
-  <meta property="og:description" content='Four Phoneix is the passionate digital marketing Company which helps you to improve sales and brand establishment with better strategy. We guides you every aspects of your business to attain your goal on your business. " You talk to us, We work for you. Let us ready to achieve the Success". Through this about us page you may be able to know about ourselves and our company.'>
-  <meta property="og:type" content="website">
+<meta property="og:url" content="https://www.fourphoenix.com/">
+<meta property="og:image" content="https://www.fourphoenix.com/style/images/logo.png">
+<meta property="og:description" content='Four Phoneix is the passionate digital marketing Company which helps you to improve sales and brand establishment with better strategy. We guides you every aspects of your business to attain your goal on your business. " You talk to us, We work for you. Let us ready to achieve the Success". Through this about us page you may be able to know about ourselves and our company.'>
+<meta property="og:type" content="website">
 
-  <meta name="twitter:card" content="summary">
-  <meta property="twitter:title" content="About us Four Phoneix - Digital marketing company">
-  <meta name="twitter:image" content="https://www.fourphoenix.com/style/images/logo.png">
-  <meta property="twitter:description" content='Four Phoneix is the passionate digital marketing Company which helps you to improve sales and brand establishment with better strategy. We guides you every aspects of your business to attain your goal on your business. " You talk to us, We work for you. Let us ready to achieve the Success". Through this about us page you may be able to know about ourselves and our company.'>
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="About us Four Phoneix - Digital marketing company">
+<meta name="twitter:image" content="https://www.fourphoenix.com/style/images/logo.png">
+<meta property="twitter:description" content='Four Phoneix is the passionate digital marketing Company which helps you to improve sales and brand establishment with better strategy. We guides you every aspects of your business to attain your goal on your business. " You talk to us, We work for you. Let us ready to achieve the Success". Through this about us page you may be able to know about ourselves and our company.'>
 
   <link rel="stylesheet" type="text/css" href="style/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="style/css/plugins.css">
@@ -29,11 +28,10 @@
   <link rel="stylesheet" type="text/css" href="style.css">
   <link rel="stylesheet" type="text/css" href="style/css/color/purple.css">
 </head>
-
 <body>
   <div class="content-wrapper">
 
-    <?php include 'header.php'; ?>
+<?php include 'header.php';?>
 
     <div class="wrapper image-wrapper bg-image page-title-wrapper inverse-text" data-image-src="style/images/bg9.jpg">
       <div class="container inner text-center">
@@ -77,7 +75,7 @@
           <div class="col-lg-4">
             <h4>Our Mission Statement</h4>
             <p>"If we can do it for us, we can do it for you too," we say as the leading digital marketing firm in Chennai. If we were able to achieve success in digital marketing and rank first in SERPs, we can do the same for you and assist you with your company's online success.</p>
-          </div>
+              </div>
           <!--/column -->
         </div>
         <!--/.row -->
@@ -98,15 +96,15 @@
             <p>The bird will reflect how we give our services to help our customers' brands be spread around the world.</p>
           </div>
           <!--/column -->
-          <div class="space30 d-none d-md-block d-lg-none"></div>
-          <div class="col-lg-6 text-center">
+               <div class="space30 d-none d-md-block d-lg-none"></div>
+              <div class="col-lg-6 text-center">
             <img src="style/images/about8.png" class="img-fluid" alt="" />
           </div>
           <!--/column -->
           <div class="space20"></div>
           <div class="col-lg-12">
             <p>Four Phoenix is a corporation that specialises in digital marketing. We intend to give good traffic to small and medium-sized businesses at a fair cost. This allows people from all walks of life to enter the digital world. They also achieve their target audience's minimum reach. Because the entire world is becoming increasingly digital. Many small and medium businesses have suffered greatly as a result of the outbreak. They can only survey as little as they thought in this digital environment. The majority of products are judged not just on their quality, but also on where they are purchased. We can't haggle for a goods in a large showroom. However, we negotiate for small items in roadside shops as well. The roadside shopper must give their product in exchange for a return of investment rather than a profit.
-              As a result, they lost not only their profit but also their courage at that time. Do you believe that the large showroom product cost includes more than just the goods? No, I don't believe so. They had to assess the costs of building rent, maintenance, décor, and air conditioning, among other things, before deciding on the product price because they had already established their brand with the public. As a result, customers began to trust them before purchasing the product. Our services are designed to instil trustworthiness in all types of businesspeople. As a result, your company's brand is well-known among our target demographic.</p>
+As a result, they lost not only their profit but also their courage at that time. Do you believe that the large showroom product cost includes more than just the goods? No, I don't believe so. They had to assess the costs of building rent, maintenance, décor, and air conditioning, among other things, before deciding on the product price because they had already established their brand with the public. As a result, customers began to trust them before purchasing the product. Our services are designed to instil trustworthiness in all types of businesspeople. As a result, your company's brand is well-known among our target demographic.</p>
           </div>
         </div>
         <!--/.row -->
@@ -114,20 +112,20 @@
       <!-- /.container -->
     </div>
     <!-- /.wrapper -->
-    <div class="wrapper white-wrapper">
+     <div class="wrapper white-wrapper">
       <div class="container inner">
         <div class="row align-items-center">
-          <div class="col-lg-6 text-center">
+         <div class="col-lg-6 text-center">
             <div class="img-blob blob7"><img src="style/images/about5.jpg" style="width: 30rem" alt="" /></div>
           </div>
-          <div class="space30 d-none d-md-block d-lg-none"></div>
-          <div class="col-lg-6 pl-60 pl-md-15">
+            <div class="space30 d-none d-md-block d-lg-none"></div>
+           <div class="col-lg-6 pl-60 pl-md-15">
             <h3 class="display-3">What prompted the formation of Four Phoneix?</h3>
             <p>Mrs. S. Nivetha Parthiban, our founder</p>
             <p>After finishing a B Tech IT degree, I began working as an IT recruiter. Communication is the main issue to survey in that industry at the beginning stage. On one particularly lovely occasion, the people on the opposite side do not speak Tamil and must converse in English. At that point, I realised that English is not a skill, but rather a means of communicating our views. Following that, there is a significant career pause due to personal reasons such as marriage or the birth of a child. Then you wish to re-enter the workforce. However, no corporate company is willing to hire a career-break mother, who will only have a chance in startup enterprises. While you're on break, learn more about digital marketing to pique your curiosity. It will also lead to the creation of a Fita Academy certification in Advanced Digital Marketing.</p>
           </div>
           <!--/column -->
-          <div class="space20"></div>
+                    <div class="space20"></div>
           <div class="col-md-12">
             <p>Following that, they began working as unpaid interns and received practical training. Finally, it leads to the establishment of one's own business. Because many homemakers are educated and brilliant, raising children is the sole reason for them to abandon their careers. As a result, we must train them freely and allow them to work independently. No one owns anything in this world; everyone is on an equal footing. We've been put together to work on a single project. The portion will be allocated according to project estimates. Money isn't vital, but it will give us bravery, self-assurance, and help us shine our personalities.</p>
             <p>Trust the women who know that due of their family situation, they are unable to overcome, that you should take your time and choose your career from the comfort of your own house.</p>
@@ -142,13 +140,13 @@
 
     <div class="wrapper light-wrapper">
       <div class="container inner">
-        <div class="row">
+      <div class="row">
           <div class="col-lg-10 offset-lg-1">
             <h2 class="title-color color-gray text-center mb-30">Meet the Team</h2>
             <div class="carousel owl-carousel clients gap-small text-center mb-0" data-margin="30" data-loop="true" data-autoplay="true" data-autoplay-timeout="3000" data-responsive='{"0":{"items": "1"}, "768":{"items": "1"}, "992":{"items": "1"}, "1140":{"items": "1"}}'>
               <div class="item">
                 <blockquote class="larger">
-                  <div class="blockquote-details justify-content-center">
+                <div class="blockquote-details justify-content-center">
                     <div class="info">
                       <h6 class="mb-0">Gokulavani NT</h6>
                       <span class="meta mb-0">Founder</span>
@@ -160,7 +158,7 @@
               <!-- /.item -->
               <div class="item">
                 <blockquote class="larger">
-                  <div class="blockquote-details justify-content-center">
+                <div class="blockquote-details justify-content-center">
                     <div class="info">
                       <h6 class="mb-0">A. Rupadevi Venkatesan </h6>
                       <span class="meta mb-0">Digital marketing Specialist</span>
@@ -172,7 +170,7 @@
               <!-- /.item -->
               <div class="item">
                 <blockquote class="larger">
-                  <div class="blockquote-details justify-content-center">
+                <div class="blockquote-details justify-content-center">
                     <div class="info">
                       <h6 class="mb-0">Rahul M</h6>
                       <span class="meta mb-0">Artist / Digital illustrator</span>
@@ -184,7 +182,7 @@
               <!-- /.item -->
               <div class="item">
                 <blockquote class="larger">
-                  <div class="blockquote-details justify-content-center">
+                <div class="blockquote-details justify-content-center">
                     <div class="info">
                       <h6 class="mb-0">Kavitha S</h6>
                       <span class="meta mb-0">Content Writer</span>
@@ -193,10 +191,10 @@
                   <p>I have completed my B E Electronics and Instrumentation degree. I know it's totally different from my work. I'm not that much interested in computer field. But I like teaching. The way presenting our concept to student need some creative knowledge. By god's grace I have that. Due to this, I have turned my knowledge into my words. And it turns to be unique, and informative content. A life which as some purpose or meaning as and that meaning is called content of life. I'm excited to share my knowledge and enjoy these with my words.</p>
                 </blockquote>
               </div>
-              <!-- /.item -->
-              <div class="item">
+               <!-- /.item -->
+               <div class="item">
                 <blockquote class="larger">
-                  <div class="blockquote-details justify-content-center">
+                <div class="blockquote-details justify-content-center">
                     <div class="info">
                       <h6 class="mb-0">Loganayaki Dinesh Kumar</h6>
                       <span class="meta mb-0">SEO Executive</span>
@@ -205,7 +203,7 @@
                   <p>I'm completed my diploma in ECE. Like every women, I'm also house wife, mother of 2 kids. I don't want to stop my responsibilities with my family itself. I want to give a shoulder for my husband especially in financially. So I restarted my career with the help of creativity work in jewelry making. And it turns me into business women. Once I start to sell in digital field. Then I'm aware and eager to know about digital marketing and it leads me to this position. My job is not only responsibility, it feels myself to be independent.</p>
                 </blockquote>
               </div>
-              <!-- /.item -->
+             <!-- /.item -->
             </div>
             <!-- /.owl-carousel -->
           </div>
@@ -215,11 +213,10 @@
       <!-- /.container -->
     </div>
     <!-- /.wrapper -->
-    <?php include 'footer.php'; ?>
-  </div>
+    <?php include 'footer.php';?>
+</div>
   <!-- /.content-wrapper -->
-  <?php include 'common_script.php'; ?>
+     <?php include 'common_script.php';?>
 
 </body>
-
 </html>
