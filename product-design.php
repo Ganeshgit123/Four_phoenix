@@ -5,6 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="style/images/favicon.png">
   <title>Four Phoneix - Best product design Company | Top product design Service providers</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-213980492-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-213980492-1');
+</script>
   <link rel="canonical" href="https://www.fourphoenix.com/product-design" />
   <meta name="description" content="Do you want best product design company? Then you are in the right place. Four Phoneix have a expertise team to design a user attractive product. We will analyse your business, product and your audience based upon that our product design service will be provided" />
 

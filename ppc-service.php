@@ -5,6 +5,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="shortcut icon" href="style/images/favicon.png">
 <title>Pay per click management services | PPC marketing company - Four Phoneix</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-213980492-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-213980492-1');
+</script>
   <link rel="canonical" href="https://www.fourphoenix.com/ppc-service" />
   <meta name="description" content="Looking for budget and effective ppc marketing company? Then you are in the right place. Four Phoneix have experienced and talented team will provide you better pay per click- ppc marketing services at an affordable price." />
 

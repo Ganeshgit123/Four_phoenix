@@ -5,6 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="style/images/favicon.png">
   <title>Four Phoneix - Best Website development and management Company</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-213980492-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-213980492-1');
+</script>
   <link rel="canonical" href="https://www.fourphoenix.com/website-development" />
   <meta name="description" content="Four Phoneix is the top website design, website development and management company. Our Website development services will help you to define your brand nd increase the demand for your products or services in the market. We are providing custom web design, development, Seo, and digital marketing services for your website." />
 

@@ -5,6 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="style/images/favicon.png">
   <title>Four Phoneix - Digital art and illustration company</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-213980492-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-213980492-1');
+</script>
   <link rel="canonical" href="https://www.fourphoenix.com/digital-art" />
   <meta name="description" content="Digital art is the best way to create a unique graphic design services. Our digital artists provides hand made unique sketch based upon our clients requirements. So the dream image can be created and it will enhance the business growth." />
 

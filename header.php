@@ -1,6 +1,7 @@
     <nav class="navbar absolute transparent inverse-text navbar-hover-opacity nav-uppercase navbar-expand-lg">
       <div class="container flex-row justify-content-center">
-         <div class="navbar-brand"><a href="https://www.fourphoenix.com/"><img src="#" srcset="style/images/logo.png" class="logo-dark" alt="" /><img src="#" srcset="style/images/logo_white.png" class="logo-light" alt="" /></a></div>
+         <div class="navbar-brand"><a href="https://www.fourphoenix.com/"><img src="style/images/logo.png" width="352px" height="175px" class="logo-dark" alt="" />
+         <img src="style/images/logo_white.png" width="352px" height="175px" class="logo-light" alt="" /></a></div>
         <div class="navbar-other ml-auto order-lg-3">
           <ul class="navbar-nav flex-row align-items-center" data-sm-skip="true">
             <li class="nav-item">
@@ -12,7 +13,7 @@
         <!-- /.navbar-other -->
         <div class="navbar-collapse offcanvas-nav">
           <div class="offcanvas-header d-lg-none d-xl-none">
-            <a href="https://www.fourphoenix.com/"><img src="#" srcset="style/images/logo_white.png" alt="" /></a>
+            <a href="https://www.fourphoenix.com/"><img src="style/images/logo_white.png" width="180px" height="86px" alt="" /></a>
             <button class="plain offcanvas-navnvas-close offcanvas-nav-close"><i class="jam jam-close"></i></button>
           </div>
           <ul class="navbar-nav mx-auto">

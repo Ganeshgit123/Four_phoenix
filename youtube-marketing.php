@@ -5,6 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="style/images/favicon.png">
   <title>YouTube marketing company | Promoting YouTube videos</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-213980492-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-213980492-1');
+</script>
   <link rel="canonical" href="https://www.fourphoenix.com/youtube-marketing" />
   <meta name="description" content="Four Phoneix is the best YouTube marketing company for promoting your videos at an affordable price. YouTube is the best platform to reach the direct audience. Four Phoneix YouTube marketing services is help you to reach your target audience with short period and less price." />
 

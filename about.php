@@ -5,6 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="style/images/favicon.png">
   <title>About us Four Phoneix - Digital marketing company</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-213980492-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-213980492-1');
+</script>
   <link rel="canonical" href="https://www.fourphoenix.com/about" />
   <meta name="description" content='Four Phoneix is the passionate digital marketing Company which helps you to improve sales and brand establishment with better strategy. We guides you every aspects of your business to attain your goal on your business. " You talk to us, We work for you. Let us ready to achieve the Success". Through this about us page you may be able to know about ourselves and our company.' />
 

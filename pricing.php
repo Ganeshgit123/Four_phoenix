@@ -5,6 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="style/images/favicon.png">
   <title>Digital marketing pricing packages | Customize digital marketing services pricing plans - Four Phoneix</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-213980492-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-213980492-1');
+</script>
   <link rel="canonical" href="https://www.fourphoenix.com/pricing" />
   <meta name="description" content="Four Phoneix helps you to boost your business in online by growing your website, increase your traffic as well as sales. Get a free consultation to know about standard and customisable pricing packages because every business has unique variety and standard." />
 

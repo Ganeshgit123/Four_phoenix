@@ -5,6 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="style/images/favicon.png">
   <title>Contact us - Four Phoneix - Digital marketing company</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-213980492-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-213980492-1');
+</script>
   <link rel="canonical" href="https://www.fourphoenix.com/contact-us" />
   <meta name="description" content="Four Phoneix  digital marketing company which cares only about customer requirements and satisfaction. When client spend budget-friendly amount and get a expected result means client becomes happy. Four Phoneix believe in that and work for that." />
 

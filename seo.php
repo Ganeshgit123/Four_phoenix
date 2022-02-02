@@ -5,6 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="style/images/favicon.png">
      <title>Four Phoenix - Search Engine Optimization Service | SEO Company</title>
+          <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-213980492-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-213980492-1');
+</script>
     <link rel="canonical" href="https://www.fourphoenix.com/seo" />
     <meta name="description" content="Enhance your website based upon seo tactics. Our seo experts will help you to reach the target audience through paid as well as organic SEO services." />
 
@@ -331,7 +340,7 @@
               <div class="row align-items-center">
                 <div class="col-md-6">
                   <div class="pr-15 pr-sm-15 h-100">
-                    <figure><img src="#" srcset="style/images/concept/concept6.png 1x, style/images/concept/concept6@2x.png 2x" alt="" /></figure>
+                    <figure><img src="style/images/concept/concept6.png" alt="" /></figure>
                   </div>
                 </div>
                 <!--/column -->
@@ -352,7 +361,7 @@
               <div class="row align-items-center">
                 <div class="col-md-6">
                   <div class="pr-15 pr-sm-15 h-100">
-                    <figure><img src="#" srcset="style/images/concept/concept7.png 1x, style/images/concept/concept7@2x.png 2x" alt="" /></figure>
+                    <figure><img src="style/images/concept/concept7.png" alt="" /></figure>
                   </div>
                 </div>
                 <!--/column -->

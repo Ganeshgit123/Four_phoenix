@@ -5,8 +5,228 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="style/images/favicon.png">
   <title>Four phoenix - Best digital marketing company at an affordable price</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-213980492-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-213980492-1');
+</script>
+<meta property="og:url" content="https://www.fourphoenix.com/"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Four Phoenix - Best Digital Marketing Company at an affordable price"/>
+<meta property="og:description" content="Branding, Digital Marketing Company &amp; Digital Marketing Agency"/>
+<meta property="og:image" content="https://scontent.fmaa2-1.fna.fbcdn.net/v/t39.30808-6/272046868_134349825720713_2647975332924991542_n.png?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_ohc=Gc2oWNVwmawAX9n6ypG&_nc_ht=scontent.fmaa2-1.fna&oh=00_AT-td4zUAJVv7SFcXodlJDT9yLUhzIGhOudNL5cch7BWdQ&oe=61FE8300"/>
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Four Phoenix, one of the top branding digital marketing company and best digital marketing agency delivers quality branding and creative best solutions with top industry standards" />
+<meta name="twitter:title" content="Four Phoenix Best Digital Marketing Company in Chennai, India" />
+<meta name="twitter:site" content="@four_phoenix" />
+<meta name="twitter:creator" content="@four_phoenix" />
+<meta name="twitter:image" content="https://pbs.twimg.com/profile_banners/1448267117053169664/1642517245/600x200" />
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
+  "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1, 
+    "name": "Local SEO",
+    "item": "https://www.fourphoenix.com/local-seo"  
+  },{
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "Global SEO",
+    "item": "https://www.fourphoenix.com/global-seo"  
+  },{
+    "@type": "ListItem", 
+    "position": 3, 
+    "name": "E-Commerce SEO",
+    "item": "https://www.fourphoenix.com/ecommerce-seo"  
+  },{
+    "@type": "ListItem", 
+    "position": 4, 
+    "name": "Link Building",
+    "item": "https://www.fourphoenix.com/link-building"  
+  },{
+    "@type": "ListItem", 
+    "position": 5, 
+    "name": "Facebook Marketing",
+    "item": "https://www.fourphoenix.com/facebook-marketing"  
+  },{
+    "@type": "ListItem", 
+    "position": 6, 
+    "name": "Instagram Marketing",
+    "item": "https://www.fourphoenix.com/instagram-marketing"  
+  },{
+    "@type": "ListItem", 
+    "position": 7, 
+    "name": "Linkedin Marketing",
+    "item": "https://www.fourphoenix.com/linkedin-marketing"  
+  },{
+    "@type": "ListItem", 
+    "position": 8, 
+    "name": "YouTube Marketing",
+    "item": "https://www.fourphoenix.com/youtube-marketing"  
+  },{
+    "@type": "ListItem", 
+    "position": 9, 
+    "name": "Twitter Marketing",
+    "item": "https://www.fourphoenix.com/twitter-marketing"  
+  },{
+    "@type": "ListItem", 
+    "position": 10, 
+    "name": "Pinterest Marketing",
+    "item": "https://www.fourphoenix.com/pinterest-marketing"  
+  },{
+    "@type": "ListItem", 
+    "position": 11, 
+    "name": "Content Marketing",
+    "item": "https://www.fourphoenix.com/content-marketing"  
+  },{
+    "@type": "ListItem", 
+    "position": 12, 
+    "name": "PPC Ad Management Service",
+    "item": "https://www.fourphoenix.com/ppc-service"  
+  },{
+    "@type": "ListItem", 
+    "position": 13, 
+    "name": "Website Development",
+    "item": "https://www.fourphoenix.com/website-development"  
+  },{
+    "@type": "ListItem", 
+    "position": 14, 
+    "name": "Graphic Design",
+    "item": "https://www.fourphoenix.com/graphic-design"  
+  },{
+    "@type": "ListItem", 
+    "position": 15, 
+    "name": "Wireframing",
+    "item": "https://www.fourphoenix.com/wireframing"  
+  },{
+    "@type": "ListItem", 
+    "position": 16, 
+    "name": "Mobile App Design",
+    "item": "https://www.fourphoenix.com/mobile-app-design"  
+  },{
+    "@type": "ListItem", 
+    "position": 17, 
+    "name": "Product Design",
+    "item": "https://www.fourphoenix.com/product-design"  
+  },{
+    "@type": "ListItem", 
+    "position": 18, 
+    "name": "Digital Art",
+    "item": "https://www.fourphoenix.com/digital-art"  
+  },{
+    "@type": "ListItem", 
+    "position": 19, 
+    "name": "Four Phoenix Digital Marketing Company",
+    "item": "https://www.fourphoenix.com/"  
+  },{
+    "@type": "ListItem", 
+    "position": 20, 
+    "name": "Digital Marketing Services",
+    "item": "https://www.fourphoenix.com/digital-marketing-services"  
+  },{
+    "@type": "ListItem", 
+    "position": 21, 
+    "name": "Social Media Marketing",
+    "item": "https://www.fourphoenix.com/social-media-marketing"  
+  },{
+    "@type": "ListItem", 
+    "position": 22, 
+    "name": "Search Engine Optimization",
+    "item": "https://www.fourphoenix.com/seo"  
+  },{
+    "@type": "ListItem", 
+    "position": 23, 
+    "name": "Four Phoenix About Us",
+    "item": "https://www.fourphoenix.com/about"  
+  },{
+    "@type": "ListItem", 
+    "position": 24, 
+    "name": "Four Phoenix Pricing",
+    "item": "https://www.fourphoenix.com/pricing"  
+  },{
+    "@type": "ListItem", 
+    "position": 25, 
+    "name": "Four Phoenix Contact Us",
+    "item": "https://www.fourphoenix.com/pricing"  
+  },{
+    "@type": "ListItem", 
+    "position": 26, 
+    "name": "Four Phoenix Blog",
+    "item": "https://www.fourphoenix.com/blog/"  
+  }]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Four Phoenix Best Digital Marketing Company",
+  "image": "https://www.fourphoenix.com/style/images/logo_white.png",
+  "@id": "",
+  "url": "https://www.fourphoenix.com/",
+  "telephone": "6382406664",
+  "priceRange": "10000",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10th East Street",
+    "addressLocality": "Chennai",
+    "postalCode": "600069",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 12.9907217,
+    "longitude": 80.11028580000001
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "opens": "09:00",
+    "closes": "21:00"
+  },
+  "sameAs": [
+    "https://www.facebook.com/Four-Phoenix-105545431934486",
+    "https://twitter.com/four_phoenix",
+    "https://www.instagram.com/fourphoenix360/",
+    "https://www.linkedin.com/company/four-phoenix/",
+    "https://in.pinterest.com/fourphoenix360/_created/",
+    "https://www.fourphoenix.com/"
+  ] 
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Four Phoenix Best Digital Marketing Company",
+  "alternateName": "Best Digital Marketing Agency",
+  "url": "https://www.fourphoenix.com/",
+  "logo": "https://www.fourphoenix.com/style/images/logo_white.png",
+  "sameAs": [
+    "https://www.facebook.com/Four-Phoenix-105545431934486",
+    "https://twitter.com/four_phoenix",
+    "https://www.instagram.com/fourphoenix360/",
+    "https://www.linkedin.com/company/four-phoenix/",
+    "https://in.pinterest.com/fourphoenix360/_created/"
+  ]
+}
+</script>
+
   <link rel="canonical" href="https://www.fourphoenix.com/" />
-  <meta name="description" content="Every business has a unique marketing style. We will analyse and give you the best strategy and brand building and awareness to the market. - Grow your business with budget digital marketing services." />
+  <meta name="description" content="Every business has a unique marketing style. We will give you the best strategy and brand building to the market.Grow business with digital marketing services" />
 
 <meta property="og:title" content="Four phoenix - Best digital marketing company at an affordable price">
 <meta property="og:url" content="https://www.fourphoenix.com/">
@@ -82,7 +302,7 @@
         <div class="space30"></div>
         <div class="row gutter-60 text-center align-items-end">
           <div class="col-md-4">
-            <figure class="mb-30"><img src="#" srcset="style/images/concept/concept14.png 1x, style/images/concept/concept14@2x.png 2x" alt="" /></figure>
+            <figure class="mb-30"><img src="style/images/concept/concept14.png" width="330px" height="330px" alt="" /></figure>
             <h4>Social Media</h4>
             <p class="mb-15">Turn your brand narrative into business performance with the help of social media. With Four Phoenix’s social media services, you can get a ROI from like Facebook, Instagram, LinkedIn and other social media platforms.</p>
             <div class="text-center"><a href="social-media-marketing" class="more">Learn more</a></div>
@@ -90,7 +310,7 @@
           <!--/column -->
           <div class="space20 d-md-none"></div>
           <div class="col-md-4">
-            <figure class="mb-30"><img src="#" srcset="style/images/concept/concept19.png 1x, style/images/concept/concept19@2x.png 2x" alt="" /></figure>
+            <figure class="mb-30"><img src="style/images/concept/concept19.png" width="330px" height="330px" alt="" /></figure>
             <h4>Digital Marketing</h4>
             <p class="mb-15">With Four Phoenix digital marketing services your company may explore new markets, attract more employees, and achieve incredible results in your field.</p>
             <div class="text-center"><a href="digital-marketing-services" class="more">Learn more</a></div>
@@ -98,7 +318,7 @@
           <!--/column -->
           <div class="space20 d-md-none"></div>
           <div class="col-md-4">
-            <figure class="mb-30"><img src="#" srcset="style/images/concept/concept18.png 1x, style/images/concept/concept18@2x.png 2x" alt="" /></figure>
+            <figure class="mb-30"><img src="style/images/concept/concept18.png" width="330px" height="330px" alt="" /></figure>
             <h4>SEO Optimization</h4>
             <p class="mb-15">Four Phoenix can assist raise your bottom line with an SEO strategy that is particularly developed for your business with our marketing technology platform and expert SEO staff. Start attracting more quality search traffic to your website right away.</p>
             <div class="text-center"><a href="seo" class="more">Learn more</a></div>
@@ -109,7 +329,7 @@
         <div class="space140"></div>
         <div class="row align-items-center">
           <div class="col-lg-6">
-            <figure><img src="#" srcset="style/images/concept/concept15.png 1x, style/images/concept/concept15@2x.png 2x" alt="" /></figure>
+            <figure><img src="style/images/concept/concept15.png" width="555px" height="458px" alt="" /></figure>
           </div>
           <!--/column -->
           <div class="space20 d-md-none"></div>
@@ -181,7 +401,7 @@
         <div class="space140"></div>
         <div class="row align-items-center">
           <div class="col-lg-6 order-lg-2 text-center">
-            <figure><img src="#" srcset="style/images/concept/concept17.png 1x, style/images/concept/concept17@2x.png 2x" alt="" /></figure>
+            <figure><img src="style/images/concept/concept17.png" width="555px" height="507px" alt="" /></figure>
           </div>
           <!--/column -->
           <div class="space20 d-md-none"></div>

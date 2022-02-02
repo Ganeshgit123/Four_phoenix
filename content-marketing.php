@@ -5,6 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="style/images/favicon.png">
   <title>Unique and informative Content Marketing company - Four Phoneix</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-213980492-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-213980492-1');
+</script>
   <link rel="canonical" href="https://www.fourphoenix.com/content-marketing" />
   <meta name="description" content="Enhance your brand identity organically and reach the target audience for your products or services. Content creates a magic and intent to customer heart to buy the product. Four Phoneix provides you unique and informative content for all mediums like blog, website, video etc because digital world is based upon unique content only. Content is the king." />
 

@@ -5,6 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="style/images/favicon.png">
   <title>Four Phoneix - Best, innovative and unique UI/UX graphic designer company</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-213980492-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-213980492-1');
+</script>
   <link rel="canonical" href="https://www.fourphoenix.com/graphic-design" />
   <meta name="description" content="Four Phoneix is the best UI/UX design and development company. We have experienced team to create a innovative designs to build stunning website, mobile apps. Our experts create eye catching logo to create brand identity. Our price is also affordable so all kind of business people design their own identity." />
 
